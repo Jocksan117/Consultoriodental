@@ -31,13 +31,19 @@ Go
 "Creacion de schemas"
 CREATE SCHEMA personas;
 Go
+
 CREATE SCHEMA citas;
 Go
+
 CREATE SCHEMA sucursales;
 Go
+
 CREATE SCHEMA inventario;
 Go
+
 CREATE SCHEMA clinical;
 Go
+
 CREATE SCHEMA trabajadores;
 Go
+
